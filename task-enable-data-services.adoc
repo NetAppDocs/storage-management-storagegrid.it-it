@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-enable-data-services.html 
 keywords: storagegrid, cloud sync, cloud backup, backup, back up data, tier data, data tiering, tiering to storagegrid, tiering 
-summary: Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati di NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati. 
+summary: Dopo aver individuato un sistema StorageGRID nella NetApp Console, è possibile utilizzare i servizi dati di NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati. 
 ---
 = Utilizzare i servizi dati NetApp con StorageGRID
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Dopo aver individuato un sistema StorageGRID nella console NetApp , è 
 
 
 [role="lead"]
-Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati.
+Dopo aver individuato un sistema StorageGRID nella NetApp Console, è possibile utilizzare i servizi dati NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati.
 
 * Utilizza NetApp Backup and Recovery per eseguire il backup dei dati dai tuoi sistemi ONTAP locali allo storage di oggetti nei tuoi sistemi NetApp StorageGRID .
 +

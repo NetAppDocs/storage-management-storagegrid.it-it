@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-administer-storagegrid.html 
 keywords: grid manager, advanced view, standard view, use grid manager, gridmanager 
-summary: 'È possibile amministrare un sistema StorageGRID dalla console NetApp utilizzando la visualizzazione avanzata.  Questa visualizzazione consente di utilizzare Grid Manager dall"interno della console NetApp .' 
+summary: 'È possibile amministrare un sistema StorageGRID dalla NetApp Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dall"interno della NetApp Console.' 
 ---
-= Gestire StorageGRID utilizzando Grid Manager nella console NetApp
+= Gestire StorageGRID utilizzando Grid Manager nella NetApp Console
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -16,7 +16,7 @@ summary: 'È possibile amministrare un sistema StorageGRID dalla console NetApp 
 [role="lead"]
 È possibile amministrare un sistema StorageGRID dalla Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dalla Console.
 
-.Ruolo richiesto della console NetApp :
+.Ruolo richiesto NetApp Console :
 Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso."^]
 
 

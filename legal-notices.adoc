@@ -48,5 +48,5 @@ link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.co
 I file di avviso forniscono informazioni sui diritti d'autore e sulle licenze di terze parti utilizzati nel software NetApp .
 
 * https://docs.netapp.com/us-en/console-setup-admin/media/notice.pdf["Avviso per NetApp Console"^]
-* link:media/NOTICE-storageservices.pdf["Avviso per la gestione della console NetApp dei sistemi StorageGRID"^]
+* link:media/NOTICE-storageservices.pdf["Avviso per la gestione NetApp Console dei sistemi StorageGRID"^]
 

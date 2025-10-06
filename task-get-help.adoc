@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-get-help.html 
 keywords: help, ticket, open support case, support, netapp support, technical support, call support, phone number, open ticket, web ticket, open an issue 
-summary: 'NetApp fornisce supporto per la console NetApp in vari modi.  Sono disponibili ampie opzioni di auto-assistenza gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.' 
+summary: 'NetApp fornisce supporto per la NetApp Console in vari modi. Sono disponibili ampie opzioni di auto-assistenza gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.' 
 ---
 = Ottieni aiuto
 :allow-uri-read: 
@@ -34,7 +34,7 @@ Queste opzioni sono disponibili gratuitamente, 24 ore al giorno, 7 giorni alla s
 
 * Documentazione
 +
-La documentazione della console NetApp che stai visualizzando.
+La documentazione NetApp Console che stai visualizzando.
 
 * https://kb.netapp.com/Cloud/BlueXP["Base di conoscenza"^]
 +
@@ -53,12 +53,12 @@ Unisciti alla community NetApp Console per seguire le discussioni in corso o cre
 Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo aver attivato il supporto.
 
 .Prima di iniziare
-* Per utilizzare la funzionalità *Crea un caso*, devi prima associare le credenziali del sito di supporto NetApp all'accesso alla console. https://docs.netapp.com/us-en/bluexp-setup-admin/task-manage-user-credentials.html["Scopri come gestire le credenziali associate all'accesso alla Console"^] .
+* Per utilizzare la funzionalità *Crea un caso*, devi prima associare le credenziali del sito di supporto NetApp all'accesso alla console. https://docs.netapp.com/us-en/bluexp-setup-admin/task-manage-user-credentials.html["Scopri come gestire le credenziali associate al tuo accesso alla Console"^] .
 * Se stai aprendo un caso per un sistema ONTAP che ha un numero di serie, il tuo account NSS deve essere associato al numero di serie di quel sistema.
 
 
 .Passi
-. Nella console NetApp , seleziona *Guida > Supporto*.
+. Nella NetApp Console, seleziona *Guida > Supporto*.
 . Nella pagina *Risorse*, seleziona una delle opzioni disponibili in Supporto tecnico:
 +
 .. Seleziona *Chiamaci* se desideri parlare con qualcuno al telefono. Verrai indirizzato a una pagina su netapp.com in cui sono elencati i numeri di telefono che puoi chiamare.
@@ -127,7 +127,7 @@ Per maggiori dettagli, vedere i passaggi riportati di seguito.
 
 
 .Passi
-. Nella console NetApp , seleziona *Guida > Supporto*.
+. Nella NetApp Console, seleziona *Guida > Supporto*.
 . Seleziona *Gestione casi* e, se richiesto, aggiungi il tuo account NSS alla Console.
 +
 La pagina *Gestione casi* mostra i casi aperti relativi all'account NSS associato al tuo account utente della Console. Si tratta dello stesso account NSS che appare in cima alla pagina *Gestione NSS*.

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-remove-storagegrid.html 
 keywords: storagegrid, cluster, remove, delete, remove storagegrid, delete cluster, delete working environment, remove working environment, remove system, delete system 
-summary: Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla console NetApp . 
+summary: Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla NetApp Console. 
 ---
 = Rimuovere un sistema StorageGRID
 :hardbreaks:
@@ -14,10 +14,10 @@ summary: Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla
 
 
 [role="lead"]
-Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla console NetApp .
+Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla NetApp Console.
 
-.Ruolo richiesto della console NetApp :
-Amministratore dell'archiviazione.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+.Ruolo richiesto NetApp Console :
+Amministratore dell'archiviazione.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
 
 La rimozione del sistema dalla Console non influisce sul sistema StorageGRID .  Puoi aggiungerlo nuovamente alla Console in qualsiasi momento.
 
