@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: task-enable-data-services.html 
+keywords: storagegrid, cloud sync, cloud backup, backup, back up data, tier data, data tiering, tiering to storagegrid, tiering 
+summary: Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati di NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati. 
+---
+= Utilizzare i servizi dati NetApp con StorageGRID
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati.
+
+* Utilizza NetApp Backup and Recovery per eseguire il backup dei dati dai tuoi sistemi ONTAP locali allo storage di oggetti nei tuoi sistemi NetApp StorageGRID .
++
+Per iniziare, vai alla pagina *Sistemi* e trascina un sistema ONTAP locale sul tuo sistema StorageGRID .
+
++
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-backup-onprem-private-cloud.html["Scopri di più sul backup dei dati ONTAP locali su StorageGRID"^]
+
+* Utilizza NetApp Cloud Tiering per suddividere automaticamente i dati inattivi dai cluster ONTAP locali a StorageGRID.
++
+Per iniziare, vai alla pagina *Sistemi* e trascina un sistema ONTAP locale sul tuo sistema StorageGRID .
+
++
+https://docs.netapp.com/us-en/bluexp-tiering/task-tiering-onprem-storagegrid.html["Scopri di più sulla suddivisione in livelli dei dati dai cluster ONTAP locali a StorageGRID"^]
+
+* Utilizzare NetApp Copy and Sync per sincronizzare i dati da o verso un sistema StorageGRID .
++
+Per iniziare, vai alla pagina *Sistemi* e trascina il sistema sorgente sul sistema di destinazione.  StorageGRID può essere sia l'origine che la destinazione.
+
++
+https://docs.netapp.com/us-en/bluexp-copy-sync/index.html["Scopri di più su NetApp Copy and Sync"^]
+
+

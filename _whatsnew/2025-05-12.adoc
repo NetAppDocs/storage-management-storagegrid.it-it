@@ -1,0 +1,9 @@
+= Ruoli di accesso BlueXP necessari
+:allow-uri-read: 
+
+
+
+
+=== Ruoli di accesso BlueXP necessari
+
+Ora è necessario uno dei seguenti ruoli di accesso per visualizzare, scoprire o gestire StorageGRID in BlueXP: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore archiviazione* o *Specialista integrità archiviazione*.link:https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP ."^]

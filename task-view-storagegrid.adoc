@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task-view-storagegrid.html 
+keywords: storagegrid, cluster, view, alerts, nodes, tenants, capacity, used capacity, free capacity, system ID, domain, IP, object data used, object metadata used, cpu usage, quota utilization, quota 
+summary: Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare i dettagli sulla distribuzione della capacità e sugli avvisi, sui nodi e sui tenant associati. 
+---
+= Visualizza i tuoi sistemi StorageGRID
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare i dettagli sulla distribuzione della capacità e sugli avvisi, sui nodi e sui tenant associati.
+
+.Ruolo richiesto della console NetApp :
+Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+
+.Passi
+. Dal menu di navigazione, seleziona *Archiviazione > Gestione*.
+. Nella pagina *Sistemi*, seleziona il sistema StorageGRID che desideri visualizzare.
+. Seleziona una delle opzioni di menu disponibili per visualizzare maggiori dettagli sul tuo sistema StorageGRID :
++
+** *Panoramica*: una vista dettagliata della distribuzione della capacità del sistema (capacità utilizzata e libera), del numero di avvisi di sistema, nodi e tenant e altro ancora.
+** *Avvisi*: un riepilogo degli avvisi di sistema, che include avvisi attivi, avvisi risolti e avvisi silenziati.
+** *Nodi*: dettagli sul nodo di amministrazione, sul nodo gateway API e sui nodi di archiviazione.  Sono incluse le percentuali relative ai dati degli oggetti utilizzati, ai metadati degli oggetti utilizzati e all'utilizzo della CPU.
+** *Inquilini*: dettagli chiave sugli inquilini, tra cui spazio logico utilizzato, utilizzo della quota, quota e conteggio degli oggetti.
+
+
+

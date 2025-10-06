@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="dc8bb8905a6984d0c45a4ada9e618ace" category="doc">Supporto per StorageGRID</block>
+  <block id="0b17baeba205d071cc0142cf4aba9b76" category="paragraph">Ora puoi scoprire i tuoi sistemi StorageGRID direttamente da BlueXP.  Scoprire StorageGRID ti offre una visione completa dei dati nel tuo multicloud ibrido.</block>
+  <block id="9e171afa6c3124020f16e21de1c7b2f4" category="doc">Nuova vista avanzata</block>
+  <block id="0f58e681c3f3ea59c830353dd632a86c" category="paragraph">A partire da StorageGRID 11.8, puoi utilizzare la familiare interfaccia Grid Manager per gestire il tuo sistema StorageGRID da BlueXP.</block>
+  <block id="af7b48fef3ac95547bce2972839785af" category="inline-link">Scopri come amministrare StorageGRID utilizzando la vista avanzata</block>
+  <block id="71bde38d3a1a0761ad0419a2db79d0c4" category="paragraph"><block ref="bcae03490ee8ad952aee993e2ae5e7eb" category="inline-link-rx"></block> .</block>
+  <block id="04862482c3a7e313dee1294875d76a61" category="section-title">Possibilità di rivedere e approvare il certificato dell'interfaccia di gestione StorageGRID</block>
+  <block id="7ef5c031e9bd4c1394a8093c50afe4e2" category="paragraph">Ora è possibile esaminare e approvare un certificato dell'interfaccia di gestione StorageGRID quando si rileva il sistema StorageGRID da BlueXP.  È anche possibile rivedere e approvare l'ultimo certificato dell'interfaccia di gestione StorageGRID su una griglia rilevata.</block>
+  <block id="4a314d3b77101d6faf44fa4063c45276" category="inline-link">Scopri come rivedere e approvare il certificato del server durante l'individuazione del sistema.</block>
+  <block id="045269b1f12b0a8f2aee954f43a8daa6" category="paragraph"><block ref="045269b1f12b0a8f2aee954f43a8daa6" category="inline-link-rx"></block></block>
+  <block id="2bef154766331bbaacbab995f24ef0c2" category="doc">Ruoli di accesso BlueXP necessari</block>
+  <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link-macro">Scopri di più sui ruoli di accesso BlueXP .</block>
+  <block id="44a4a7c03393e00f4aeee3bd72474eea" category="paragraph">Ora è necessario uno dei seguenti ruoli di accesso per visualizzare, scoprire o gestire StorageGRID in BlueXP: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore archiviazione* o *Specialista integrità archiviazione*.<block ref="b792d0fe33393ff1eec4387f959ddd2c" category="inline-link-macro-rx"></block></block>
+  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="doc">BlueXP è ora NetApp Console</block>
+  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">NetApp Console, basata sulle fondamenta BlueXP migliorate e ristrutturate, offre una gestione centralizzata dello storage NetApp e dei NetApp Data Services in ambienti on-premise e cloud di livello aziendale, offrendo informazioni in tempo reale, flussi di lavoro più rapidi e un'amministrazione semplificata, il tutto in modo altamente sicuro e conforme.</block>
+  <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">Note sulla versione della console NetApp</block>
+  <block id="800c173937521899b70a4ab5d735d3d7" category="paragraph">Per i dettagli su cosa è cambiato, vedere il<block ref="b78e17cf58c4e309929c8d6a69594c7d" category="inline-link-macro-rx"></block> .</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Note legali</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Le note legali forniscono accesso a dichiarazioni di copyright, marchi commerciali, brevetti e altro ancora.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Copyright</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marchi</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, il logo NETAPP e i marchi elencati nella pagina Marchi NetApp sono marchi di NetApp, Inc. Altri nomi di aziende e prodotti possono essere marchi dei rispettivi proprietari.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Brevetti</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Un elenco aggiornato dei brevetti di proprietà di NetApp è disponibile all'indirizzo:</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Politica sulla riservatezza</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open source</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sui diritti d'autore e sulle licenze di terze parti utilizzati nel software NetApp .</block>
+  <block id="50dbf63cd0ab8144a287e5cd6a0f1de2" category="inline-link">Avviso per NetApp Console</block>
+  <block id="c87093fc5ce0aab848deaeae14c761b9" category="list-text"><block ref="c87093fc5ce0aab848deaeae14c761b9" category="inline-link-rx"></block></block>
+  <block id="f79ebde6a1a4f17ac930ceaedb344ad5" category="inline-link-macro">Avviso per la gestione della console NetApp dei sistemi StorageGRID</block>
+  <block id="411334f05b81714b2d8f3d3bc5ae0a2e" category="list-text"><block ref="411334f05b81714b2d8f3d3bc5ae0a2e" category="inline-link-macro-rx"></block></block>
+  <block id="34515f1d88b10d0db0a78eba6c533394" category="summary">I problemi noti identificano i problemi che potrebbero impedirti di utilizzare correttamente questa versione del prodotto.</block>
+  <block id="63c43c1298dbd351ea9b45ab7bf8b811" category="doc">Problemi noti per la gestione StorageGRID nella console NetApp</block>
+  <block id="26e1ae357ea5f677dc708693f63d2234" category="section-title">I nomi visualizzati aggiornati non vengono visualizzati nella console NetApp</block>
+  <block id="c5bdd83865407be8b653c1cd7dcd9571" category="paragraph">Se si utilizza la procedura di ridenominazione per definire un nuovo nome visualizzato per un sito o una griglia, il nuovo nome visualizzato non viene riflesso nella console NetApp .  Nella console NetApp , il sistema continua a mostrare il nome del sistema e non il nuovo nome visualizzato.</block>
+  <block id="4184c004c3d306eac4540e4aefb2f6a9" category="section-title">Errore durante il filtraggio degli avvisi</block>
+  <block id="57e6970cf13aa98ffd7faf72c61853bb" category="paragraph">Quando si utilizza la visualizzazione avanzata, il filtraggio del contenuto della pagina Avvisi genera un errore.</block>
+  <block id="1998a0486c5c4169c29f007cc908c1d7" category="section-title">Errore durante la modifica della connessione della federazione di griglia</block>
+  <block id="5094a282c5a9bba09561ad9a388f91c5" category="paragraph">Quando si utilizza la visualizzazione avanzata, potrebbe verificarsi un errore di timeout del gateway durante la modifica di una connessione di federazione della griglia.</block>
+  <block id="27239bc2e8ca18aae4bd57bf98d64a93" category="summary">È possibile amministrare un sistema StorageGRID dalla console NetApp utilizzando la visualizzazione avanzata.  Questa visualizzazione consente di utilizzare Grid Manager dall'interno della console NetApp .</block>
+  <block id="e11189f51e944c56ae93486d4b5db590" category="doc">Gestire StorageGRID utilizzando Grid Manager nella console NetApp</block>
+  <block id="d5c34e6c10be47a51e62aadafb90e8f8" category="paragraph">È possibile amministrare un sistema StorageGRID dalla Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dalla Console.</block>
+  <block id="f3d96e033470d8fb9d043aed29754d44" category="paragraph-title">Ruolo richiesto della console NetApp :</block>
+  <block id="c86bd67be80794fcaa3f1d91aa8b2899" category="inline-link-macro">Scopri di più sui ruoli di accesso.</block>
+  <block id="647e72c68ac2b108fc4f872a4408d77a" category="paragraph">Amministratore dell'archiviazione o specialista dell'integrità del sistema.<block ref="5a4d408bd57f7cf7efbd6cf878c737a7" category="inline-link-macro-rx"></block></block>
+  <block id="1f0b82560627b660c6c6958a1df834b8" category="section-title">Configurazioni supportate</block>
+  <block id="82f590009d4efe1d732fe71c4acb2ae2" category="paragraph">Grid Manager è disponibile nella Console a partire da StorageGRID 11.8.</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="section-title">Limitazioni</block>
+  <block id="faf4d707a11bae8eab65893c9e387e8f" category="paragraph">Le seguenti operazioni di Grid Manager non sono disponibili dalla Console.  Se devi eseguire queste operazioni, accedi direttamente a Grid Manager.</block>
+  <block id="e56c7ead55fc1e5f499eae95a4a912b3" category="cell">Menu del gestore della griglia</block>
+  <block id="5156295a022e21df95e1e260394ee411" category="cell">Operazioni non disponibili dalla Console</block>
+  <block id="8f9bfe9d1345237cb3b2b205864da075" category="paragraph">Utente</block>
+  <block id="f37627b09b882611b44ff399a9c378e9" category="list-text">Collegamento per uscire</block>
+  <block id="baeaf581efec254c255d808076ebb8b5" category="list-text">Link alla documentazione API</block>
+  <block id="0b39c5aca15b84b1ad53a94d6b3feb78" category="list-text">Cambiare la password</block>
+  <block id="187c6ad3a74cc93ac6c2229d398e383e" category="paragraph">Nodi</block>
+  <block id="3a4d215d512d4ae5edd991d81bf9972e" category="list-text">Non è possibile accedere a SANtricity System Manager dalla scheda Nodi &gt; SANtricity System Manager.</block>
+  <block id="97e48133192510ab2ce4a4c7af40d7c1" category="list-text">Quando visualizzi gli avvisi, potresti non essere in grado di selezionare tutti i collegamenti nelle azioni consigliate.  Ad esempio, i link che rimandano a pagine di Grid Manager non supportate non funzioneranno.</block>
+  <block id="ab46b0da4c689d676afbc74038c40f71" category="paragraph">inquilini</block>
+  <block id="52e8a870e31fcf345b37b10609383a35" category="paragraph">Non è possibile accedere a un account tenant dalla procedura guidata Crea un tenant o dalla pagina Tenant.</block>
+  <block id="ec823db65eff78b29b3aa37df2c9117a" category="paragraph">Attualmente la Console non supporta Tenant Manager.  Sebbene sia possibile creare nuovi account tenant dalla Console, gli utenti tenant non possono accedere ai propri account dalla Console.</block>
+  <block id="45a63ab8cbf11a8d14e5315e7199fcbd" category="paragraph">ILM</block>
+  <block id="d1760d83776d2cad4f596e5fbdca7031" category="paragraph">Link ai gradi di stoccaggio</block>
+  <block id="254f642527b45bc260048e30704edb39" category="paragraph">Configurazione</block>
+  <block id="8e8a68d187d0714e364a531fe90c3e48" category="list-text">Password di griglia</block>
+  <block id="4e4b4ed3fd3d46ee1adfbe44d5d59f43" category="list-text">Classificazione del traffico &gt; Metriche</block>
+  <block id="a48031b9725d4cf40505c76b9f1639b6" category="list-text">Impostazioni di sicurezza &gt; Timeout di inattività del browser</block>
+  <block id="f349dbd269e091419d25308532e10fa9" category="list-text">Accesso unico</block>
+  <block id="ca0fa3abc1c867e840da53c9362947e0" category="list-text">Agente SNMP &gt; file MIB per l'interfaccia BMC</block>
+  <block id="10d0de28911c5f66463b9c8783f8148a" category="paragraph">Manutenzione</block>
+  <block id="1c099fee7c6387b021909926b4fbcf98" category="list-text">Pacchetto di recupero</block>
+  <block id="c329847c5a9eb54120dcc6a37e7688cd" category="list-text">Aggiornamento software</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="paragraph">Supporto</block>
+  <block id="18e8755b803a7bb837ea9fdd4a198fcf" category="list-text">Topologia della griglia</block>
+  <block id="b2d37ae1cedf42ff874289b721860af2" category="list-text">Registri</block>
+  <block id="e3c28fcb661163dc6895b75c04f2efd7" category="list-text">Metriche, inclusi tutti i collegamenti alle metriche di Prometheus e alle dashboard di Grafana da altre posizioni nell'interfaccia utente.</block>
+  <block id="398728716b4e5021932fed1c2a8ebeb8" category="list-text">Tutte le opzioni per gli allarmi legacy</block>
+  <block id="62e734353c5cfd6023d970172d9908a9" category="list-text">Costo del collegamento</block>
+  <block id="5afeba0bd099057d2f768c19f06ec2da" category="list-text">entità NMS</block>
+  <block id="3862c7ad20b0923cf8f9b1be9e028f11" category="section-title">Passa alla vista avanzata</block>
+  <block id="4fd2f0ed2a27d6ecfe750ed0f462f569" category="paragraph">Aprire un sistema StorageGRID e selezionare l'opzione di visualizzazione avanzata.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Passi</block>
+  <block id="f244da7e15f3999df2831b63141e093f" category="list-text">Dalla pagina *Sistemi*, aprire il sistema StorageGRID .</block>
+  <block id="692e1e106333597b5a86044f5e0af539" category="list-text">In alto a destra, seleziona *Passa alla visualizzazione avanzata*.</block>
+  <block id="4b233cf02f1889c420108e8345cc0030" category="list-text">Utilizzare Grid Manager per gestire il sistema StorageGRID .</block>
+  <block id="b7271b5e81c9ac4c11c4746d6b80a538" category="list-text">Se necessario, selezionare Passa alla visualizzazione standard per tornare alla visualizzazione standard tramite Console.</block>
+  <block id="e5e3035b0f7e5a2843ab139092d0b6fa" category="section-title">Ottieni assistenza con Grid Manager</block>
+  <block id="3778f3873debfe11e2ace6bb6af1e417" category="inline-link">Documentazione StorageGRID</block>
+  <block id="e05b3769a3e17ad902ca3ef85360d7f9" category="paragraph">Se hai bisogno di aiuto nell'utilizzo di Grid Manager, fai riferimento a<block ref="a933c7261fbaa2ef6900890d35e68b11" category="inline-link-rx"></block> per istruzioni dettagliate.</block>
+  <block id="d151acbef027ea9883e40b32274c5a04" category="summary">Scopri i sistemi StorageGRID nel tuo ambiente on-premise e gestiscili direttamente dalla console NetApp tramite Grid Manager.</block>
+  <block id="c10ae48739661aebcdebc04124762406" category="doc">Aggiungere i sistemi StorageGRID alla console NetApp</block>
+  <block id="5034e08cdc3b4865f67cdf020c27269b" category="paragraph">Gestisci i tuoi sistemi StorageGrid direttamente dalla console NetApp utilizzando Grid Manager.</block>
+  <block id="dbbc09735940a2a21109b74dc600b92b" category="inline-link-macro">Scopri di più sui ruoli di accesso alla console NetApp .</block>
+  <block id="6fd600090915668444ea7d162325adc5" category="paragraph">Amministratore dell'archiviazione o specialista dell'integrità del sistema.<block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">Prima di iniziare</block>
+  <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">Ti occorre quanto segue:</block>
+  <block id="d4a6e71a69daabc670296b6e5d940bcf" category="inline-link">Contatta l'amministratore della tua organizzazione.</block>
+  <block id="f989c70e8b10ec6677c8508c4ad6716d" category="list-text">Un agente console NetApp che utilizza la versione 3.9.43 o successiva.  Per installare un agente console è necessario disporre del ruolo di amministratore dell'organizzazione.  Se non sai se la tua organizzazione dispone di un Console Agent o se hai bisogno di crearne uno, contatta l'amministratore della console NetApp .<block ref="765570b937b73d16d7ea0af9aecd0128" category="inline-link-rx"></block></block>
+  <block id="8ed6fea4723099b9cd21d8f577ab8fb6" category="list-text">Il nome di dominio o l'indirizzo IP del nodo di amministrazione.</block>
+  <block id="cdf740c7139af2d388c8083334061fa1" category="list-text">Credenziali di amministratore per il nodo di amministrazione.</block>
+  <block id="7946381c1469da9982f0ec23675e074e" category="list-text">Un certificato di interfaccia di gestione installato sul tuo sistema StorageGRID .</block>
+  <block id="899334f483a8eb1e661e504ffe749109" category="inline-link">Scopri di più sull'installazione di un certificato di interfaccia di gestione su StorageGRID</block>
+  <block id="29f8a7fdcc1561634392c06486db3526" category="paragraph"><block ref="29f8a7fdcc1561634392c06486db3526" category="inline-link-rx"></block></block>
+  <block id="c27deb5ada399336a287848889d2032c" category="list-text">Dal menu di navigazione, seleziona *Archiviazione &gt; Gestione*.</block>
+  <block id="a2bbc305e061bf1ea8c419672c377672" category="list-text">Selezionare *Sistemi*.</block>
+  <block id="5211458073f915c9abf57481c61698ad" category="list-text">Selezionare *Aggiungi sistema* e selezionare *In sede*.</block>
+  <block id="c1337bb911d61c7e24f0143c98280728" category="list-text">Accanto a * StorageGRID*, seleziona *Scopri*.</block>
+  <block id="8cf19817e4e7fd9da0b6ce8acdb567b7" category="list-text">Nella pagina _Dettagli cluster StorageGRID_ nella Console, immettere il nome di dominio o l'indirizzo IP del nodo di amministrazione, le credenziali per il nodo, quindi selezionare *Aggiungi*.</block>
+  <block id="c11467c66c9d20aefade3d8c6a472be6" category="list-text">La console recupera automaticamente il certificato dell'interfaccia di gestione StorageGRID .  Nella pagina _Approva certificato_, rivedere i dettagli del certificato.</block>
+  <block id="b7b06656b02cb84d84e7f79e844f69e6" category="list-text">Per utilizzare un certificato diverso, è necessario prima configurarlo sul sistema StorageGRID .</block>
+  <block id="fd6ef625f97076ff9598106b60195180" category="inline-link">Installazione di un certificato di interfaccia di gestione su StorageGRID</block>
+  <block id="7ca143532806a5c7adafe28564a2076a" category="list-text">Nel tuo sistema StorageGRID locale, segui le istruzioni:<block ref="0cf12816ab392319fa8fa5ca90f97c92" category="inline-link-rx"></block> .</block>
+  <block id="9d802d0448e390fa63540342de811f28" category="list-text">Dopo aver configurato il certificato nel sistema StorageGRID , selezionare *Annulla* nella pagina _Approva certificato_ nella Console.</block>
+  <block id="9ae82cb65355b4df3873a1db559ff935" category="list-text">Nella pagina _Dettagli cluster StorageGRID_, seleziona *Aggiungi*.</block>
+  <block id="f366bb321d887c34c28635516c2e2a3f" category="list-text">Facoltativamente, seleziona *Copia certificato* per copiare i dettagli del certificato.  Se lo si desidera, è possibile utilizzare i dettagli del certificato per eseguire ulteriori convalide.</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">Eseguire una delle seguenti operazioni:</block>
+  <block id="45423c15c9f7fc300b5c31e290fcb524" category="list-text">Selezionare *Approva certificato* per utilizzare il certificato.</block>
+  <block id="1ca040430e0978a3f2d4ae1c17bbc8b5" category="paragraph">La console NetApp visualizza un messaggio di operazione riuscita e protegge tutte le comunicazioni tra il server StorageGRID e l'agente della console verificando il certificato approvato.</block>
+  <block id="57451516de60f65a613633c72a543441" category="list-text">Selezionare *Annulla* per terminare il processo di rilevamento senza verificare il certificato.</block>
+  <block id="8573a317227bda2e8dcf6245b9035011" category="paragraph">Ad esempio, puoi selezionare *Annulla* se ricevi un messaggio di errore che ti informa che è necessario aggiornare il certificato di gestione StorageGRID .</block>
+  <block id="0dc9de1471d80fc98eb6b0151fafbffa" category="paragraph">Per aggiornare un certificato, accedi al tuo sistema StorageGRID , aggiorna il certificato e riavvia il processo di individuazione dalla console NetApp .</block>
+  <block id="4209bb3c02890580b6466f7208bac3aa" category="summary">Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati di NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati.</block>
+  <block id="4d59e76f3a0fb15954592256790b7f7e" category="doc">Utilizzare i servizi dati NetApp con StorageGRID</block>
+  <block id="2cc401acf1743eee8bd1261bef16ae50" category="paragraph">Dopo aver individuato un sistema StorageGRID nella console NetApp , è possibile utilizzare i servizi dati NetApp per backup, suddivisione in livelli dei dati e sincronizzazione dei dati.</block>
+  <block id="a904ec7788dd2ecae857966472095d9f" category="list-text">Utilizza NetApp Backup and Recovery per eseguire il backup dei dati dai tuoi sistemi ONTAP locali allo storage di oggetti nei tuoi sistemi NetApp StorageGRID .</block>
+  <block id="fb1b3179d6c46954a36b92cac0736222" category="paragraph">Per iniziare, vai alla pagina *Sistemi* e trascina un sistema ONTAP locale sul tuo sistema StorageGRID .</block>
+  <block id="a4304a5e5ad0523cd1e2516efcbb04ea" category="inline-link">Scopri di più sul backup dei dati ONTAP locali su StorageGRID</block>
+  <block id="9e5b68fb5027979545709db9c86c496d" category="paragraph"><block ref="9e5b68fb5027979545709db9c86c496d" category="inline-link-rx"></block></block>
+  <block id="04affab1cdd3516658ad652fcfaf5a44" category="list-text">Utilizza NetApp Cloud Tiering per suddividere automaticamente i dati inattivi dai cluster ONTAP locali a StorageGRID.</block>
+  <block id="a7b3ca6a800aa86763c04f7fff5c0f0c" category="paragraph">Per iniziare, vai alla pagina *Sistemi* e trascina un sistema ONTAP locale sul tuo sistema StorageGRID .</block>
+  <block id="39759be047cc5c7c6c37b3a3c14c7616" category="inline-link">Scopri di più sulla suddivisione in livelli dei dati dai cluster ONTAP locali a StorageGRID</block>
+  <block id="f2c38058631be40aaf2ca546dedb5828" category="paragraph"><block ref="f2c38058631be40aaf2ca546dedb5828" category="inline-link-rx"></block></block>
+  <block id="d84ae9c5fee4a20424a50b491bf9ca94" category="list-text">Utilizzare NetApp Copy and Sync per sincronizzare i dati da o verso un sistema StorageGRID .</block>
+  <block id="d95e5db4ff301d281f0779f0048181e8" category="paragraph">Per iniziare, vai alla pagina *Sistemi* e trascina il sistema sorgente sul sistema di destinazione.  StorageGRID può essere sia l'origine che la destinazione.</block>
+  <block id="3759d89c909b76c79aaa28ed2ce4306a" category="inline-link">Scopri di più su NetApp Copy and Sync</block>
+  <block id="cab10d8498bc6058193227ca80c2484e" category="paragraph"><block ref="cab10d8498bc6058193227ca80c2484e" category="inline-link-rx"></block></block>
+  <block id="a99fab69b8aa9775fe1767ce605ae8bd" category="summary">NetApp fornisce supporto per la console NetApp in vari modi.  Sono disponibili ampie opzioni di auto-assistenza gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Ottieni aiuto</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetApp fornisce supporto per NetApp Console e i suoi servizi cloud in vari modi. Sono disponibili ampie opzioni di auto-supporto gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Ottieni supporto per un servizio file di un provider cloud</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">Per il supporto tecnico relativo al servizio file di un provider cloud, alla sua infrastruttura o a qualsiasi soluzione che utilizzi il servizio, fare riferimento alla documentazione del prodotto in questione.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSx per ONTAP</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="list-text"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="153836c062a78213f2aa165322254aa4" category="list-text"><block ref="153836c062a78213f2aa165322254aa4" category="inline-link-macro-rx"></block></block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="0d592360c983f234b130127efee38805" category="list-text"><block ref="0d592360c983f234b130127efee38805" category="inline-link-macro-rx"></block></block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">Per ricevere supporto tecnico specifico per NetApp e le sue soluzioni di storage e servizi dati, utilizzare le opzioni di supporto descritte di seguito.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilizzare opzioni di auto-supporto</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Queste opzioni sono disponibili gratuitamente, 24 ore al giorno, 7 giorni alla settimana:</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentazione</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">La documentazione della console NetApp che stai visualizzando.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base di conoscenza</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">Cerca nella knowledge base NetApp per trovare articoli utili per la risoluzione dei problemi.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunità</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">Unisciti alla community NetApp Console per seguire le discussioni in corso o crearne di nuove.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Crea un caso con il supporto NetApp</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo aver attivato il supporto.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">Prima di iniziare</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">Scopri come gestire le credenziali associate all'accesso alla Console</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">Per utilizzare la funzionalità *Crea un caso*, devi prima associare le credenziali del sito di supporto NetApp all'accesso alla console.<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block> .</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Se stai aprendo un caso per un sistema ONTAP che ha un numero di serie, il tuo account NSS deve essere associato al numero di serie di quel sistema.</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">Nella console NetApp , seleziona *Guida &gt; Supporto*.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Nella pagina *Risorse*, seleziona una delle opzioni disponibili in Supporto tecnico:</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Seleziona *Chiamaci* se desideri parlare con qualcuno al telefono. Verrai indirizzato a una pagina su netapp.com in cui sono elencati i numeri di telefono che puoi chiamare.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Seleziona *Crea un caso* per aprire un ticket con uno specialista del supporto NetApp :</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*Servizio*: seleziona il servizio a cui è associato il problema. Ad esempio, * NetApp Console* quando si tratta di un problema specifico di supporto tecnico con flussi di lavoro o funzionalità all'interno della Console.</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*Sistema*: se applicabile all'archiviazione, selezionare * Cloud Volumes ONTAP* o *On-Prem* e quindi l'ambiente di lavoro associato.</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">L'elenco dei sistemi rientra nell'ambito dell'organizzazione della Console e dell'agente della Console selezionato nel banner in alto.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Priorità del caso*: scegli la priorità del caso, che può essere Bassa, Media, Alta o Critica.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Per saperne di più su queste priorità, passa il mouse sull'icona informativa accanto al nome del campo.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Descrizione del problema*: fornisci una descrizione dettagliata del problema, inclusi eventuali messaggi di errore o passaggi per la risoluzione dei problemi eseguiti.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Indirizzi email aggiuntivi*: inserisci altri indirizzi email se desideri informare qualcun altro di questo problema.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Allegato (facoltativo)*: carica fino a cinque allegati, uno alla volta.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Gli allegati sono limitati a 25 MB per file. Sono supportate le seguenti estensioni di file: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx e csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Uno screenshot del modulo Crea un caso che consente di creare un caso con il supporto NetApp .</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Dopo aver finito</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Apparirà una finestra pop-up con il numero del tuo caso di supporto. Uno specialista del supporto NetApp esaminerà il tuo caso e ti contatterà al più presto.</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Per una cronologia dei tuoi casi di supporto, puoi selezionare *Impostazioni &gt; Cronologia* e cercare le azioni denominate "crea caso di supporto". Un pulsante all'estrema destra consente di espandere l'azione per visualizzarne i dettagli.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">È possibile che venga visualizzato il seguente messaggio di errore quando si tenta di creare un caso:</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"Non sei autorizzato a creare un caso contro il servizio selezionato"</block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">Questo errore potrebbe indicare che l'account NSS e la società registrata a cui è associato non corrispondono alla stessa società registrata per il numero di serie dell'account NetApp Console (ad esempio 960xxxx) o il numero di serie dell'ambiente di lavoro. Puoi richiedere assistenza utilizzando una delle seguenti opzioni:</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Invia un caso non tecnico a<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">Gestisci i tuoi casi di supporto</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">È possibile visualizzare e gestire i casi di supporto attivi e risolti direttamente dalla Console. Puoi gestire i casi associati al tuo account NSS e alla tua azienda.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Notare quanto segue:</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">La dashboard di gestione dei casi nella parte superiore della pagina offre due visualizzazioni:</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">La vista a sinistra mostra il totale dei casi aperti negli ultimi 3 mesi dall'account NSS utente fornito.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">La vista a destra mostra il totale dei casi aperti negli ultimi 3 mesi a livello aziendale in base al tuo account NSS utente.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">I risultati nella tabella riflettono i casi correlati alla vista selezionata.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">È possibile aggiungere o rimuovere colonne di interesse e filtrare il contenuto di colonne come Priorità e Stato. Altre colonne forniscono solo funzionalità di ordinamento.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Per maggiori dettagli, vedere i passaggi riportati di seguito.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">A livello di singolo caso, offriamo la possibilità di aggiornare le note del caso o di chiudere un caso che non sia già nello stato Chiuso o In attesa di chiusura.</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">Nella console NetApp , seleziona *Guida &gt; Supporto*.</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">Seleziona *Gestione casi* e, se richiesto, aggiungi il tuo account NSS alla Console.</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">La pagina *Gestione casi* mostra i casi aperti relativi all'account NSS associato al tuo account utente della Console. Si tratta dello stesso account NSS che appare in cima alla pagina *Gestione NSS*.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Facoltativamente, modifica le informazioni visualizzate nella tabella:</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">In *Casi dell'organizzazione*, seleziona *Visualizza* per visualizzare tutti i casi associati alla tua azienda.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifica l'intervallo di date scegliendo un intervallo di date esatto o un intervallo di tempo diverso.</block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtra il contenuto delle colonne.</block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">L'icona più che appare nella tabella</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text">Modifica le colonne che appaiono nella tabella selezionando<block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block> e quindi scegli le colonne che desideri visualizzare.</block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Un'icona con tre punti che appare nell'ultima colonna della tabella</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text">Gestisci un caso esistente selezionando<block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Visualizza caso*: visualizza i dettagli completi su un caso specifico.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aggiorna note sul caso*: fornisci ulteriori dettagli sul tuo problema o seleziona *Carica file* per allegare fino a un massimo di cinque file.</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Chiudi caso*: fornisci i dettagli sul motivo per cui stai chiudendo il caso e seleziona *Chiudi caso*.</block>
+  <block id="1c0cf398fca729802189afd04195daca" category="summary">Poiché i certificati possono scadere, occasionalmente potrebbe essere necessario visualizzarne lo stato o aggiornarne uno.</block>
+  <block id="dd0d36f89a15258549e13613858361ef" category="doc">Visualizza e aggiorna i certificati StorageGRID nella console NetApp</block>
+  <block id="5327d9fc450204dcc46442e6725edae3" category="paragraph">È necessario un certificato di interfaccia di gestione sul sistema StorageGRID prima di poter rilevare il sistema dalla console NetApp .  Il certificato fornisce una connessione sicura tra la Console e StorageGRID.  Poiché i certificati possono scadere, occasionalmente potrebbe essere necessario visualizzarne lo stato o aggiornarne uno.</block>
+  <block id="c770cc35592d37d6c613acd34268446d" category="paragraph">Amministratore dell'archiviazione.<block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="fbd54ca9d42fc0afdb26c5c699c8e55e" category="section-title">Visualizza lo stato di un certificato dell'interfaccia di gestione</block>
+  <block id="ac2871047714af92edb3022cb27acb51" category="paragraph">Visualizzare lo stato del certificato dell'interfaccia di gestione per un sistema StorageGRID per verificare che il certificato sia ancora valido.</block>
+  <block id="d98db4acfa58dea7d268506b66ad6e71" category="list-text">Nella pagina *Sistemi*, selezionare il sistema StorageGRID .</block>
+  <block id="6b3bbbb8c1a9c2cde18108cb407d12b1" category="list-text">Dalla vista standard, controlla lo stato del certificato approvato dall'utente nella parte inferiore del riquadro _Informazioni_ sul lato destro della pagina.</block>
+  <block id="5c8aefe50da5e68bac8b7fadb69f27cd" category="admonition">Lo stato del certificato viene aggiornato ogni 24 ore.</block>
+  <block id="ed705c097546086b65ee2918f8c18f93" category="section-title">Aggiorna il certificato dell'interfaccia di gestione</block>
+  <block id="7119ba4526ce61e0874111f9ae6c8000" category="paragraph">Se lo stato del certificato dell'interfaccia di gestione non è valido o si riceve una notifica che il certificato è scaduto, sarà necessario aggiornarlo affinché la console NetApp possa connettersi a StorageGRID.</block>
+  <block id="4b4e284cad41e74d772677e47ccbf432" category="list-text">Vai al tuo Grid Manager locale in StorageGRID e segui le istruzioni per<block ref="e4a1425c9a71162659bfbfada9a25737" category="inline-link-rx"></block> .</block>
+  <block id="1155fb969d9717092513d154149e1f78" category="list-text">Dal menu di navigazione della console NetApp , selezionare *Storage &gt; Gestione*.</block>
+  <block id="40540158a277d365081d54ce377ee023" category="list-text">Selezionare l'icona Altre opzioni (cerchio con tre punti verticali).</block>
+  <block id="9769a2363939e90bde7efa3d07411abc" category="inline-image-macro">Uno screenshot del menu di aggiornamento.</block>
+  <block id="37ed989771f3eef279909a198294f53c" category="paragraph"><block ref="37ed989771f3eef279909a198294f53c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="de70401c3464a4edf8505f4b7a4258de" category="list-text">Selezionare *Aggiorna certificato*.</block>
+  <block id="434da4cffed06e08c23765d021db1afc" category="list-text">Nella pagina _Approva certificato_, seleziona *Approva certificato* per utilizzare il certificato aggiornato.</block>
+  <block id="49332d7ca8fe54f04384a507c81221de" category="summary">Rimuovere un sistema StorageGRID se non si desidera più gestirlo dalla console NetApp .</block>
+  <block id="8fdc9e5c64bdc3bb9a007f8f53050a22" category="doc">Rimuovere un sistema StorageGRID</block>
+  <block id="db34e7c061d99f02326a1c25f6cdf6a9" category="paragraph">La rimozione del sistema dalla Console non influisce sul sistema StorageGRID .  Puoi aggiungerlo nuovamente alla Console in qualsiasi momento.</block>
+  <block id="101a4dba130db08f412262b11097db65" category="list-text">Dalla visualizzazione standard, seleziona l'icona del menu e seleziona *Rimuovi dall'area di lavoro*.</block>
+  <block id="b7dd0331ad4ede9488c2fd01dda69e83" category="list-text">Selezionare *Rimuovi* per confermare.</block>
+  <block id="df3d826b639dd614f0fae940d9ebee78" category="summary">Prima di poter aprire un caso di supporto con il supporto tecnico NetApp , è necessario aggiungere un account NetApp Support Site alla console NetApp e quindi registrarsi per ricevere supporto.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Registrati per ricevere supporto</block>
+  <block id="776abbf4d80cbef17bd3c86ff37b2257" category="paragraph">Per ricevere supporto tecnico specifico per NetApp Console e le sue soluzioni di storage e servizi dati è necessaria la registrazione al supporto. La registrazione del supporto è inoltre richiesta per abilitare i flussi di lavoro chiave per i sistemi Cloud Volumes ONTAP .</block>
+  <block id="ba4e23e03f4354a0f1ef2781272c8477" category="paragraph">La registrazione per il supporto non abilita il supporto NetApp per un servizio file del provider cloud. Per assistenza tecnica relativa a un servizio file di un provider cloud, alla sua infrastruttura o a qualsiasi soluzione che utilizzi il servizio, fare riferimento alla sezione "Ottenere assistenza" nella documentazione del prodotto in questione.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Panoramica della registrazione del supporto</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Per attivare il diritto al sostegno sono previste due modalità di registrazione:</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">Registrando il numero di serie del tuo account NetApp Console (il numero di serie di 20 cifre 960xxxxxxxxx che si trova nella pagina Risorse di supporto nella Console).</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">Questo funge da ID di abbonamento unico per qualsiasi servizio all'interno della Console. Ogni account Console deve essere registrato.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Registrazione dei numeri di serie di Cloud Volumes ONTAP associati a un abbonamento nel marketplace del tuo provider cloud (si tratta di numeri di serie a 20 cifre 909201xxxxxxxx).</block>
+  <block id="3cf9fb70d6921dd90583621f028a395f" category="paragraph">Questi numeri di serie sono comunemente denominati _numeri di serie PAYGO_ e vengono generati dalla console NetApp al momento della distribuzione Cloud Volumes ONTAP .</block>
+  <block id="bf516b6498e37e816d29ae43ae132f74" category="paragraph">La registrazione di entrambi i tipi di numeri di serie consente funzionalità quali l'apertura di ticket di supporto e la generazione automatica di casi. La registrazione viene completata aggiungendo gli account NetApp Support Site (NSS) alla Console come descritto di seguito.</block>
+  <block id="ba5983207e417797fefd5b9374ab4a97" category="section-title">Registra NetApp Console per il supporto NetApp</block>
+  <block id="dcb7105ba6e3d9411b05e726848feb80" category="paragraph">Per registrarsi per ricevere supporto e attivare il diritto al supporto, un utente del tuo account NetApp Console deve associare un account NetApp Support Site al proprio login alla Console. La modalità di registrazione per l'assistenza NetApp varia a seconda che si disponga già di un account NetApp Support Site (NSS).</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Cliente esistente con un account NSS</block>
+  <block id="ed5bddb699a442b85bc1bb8e1516fe57" category="paragraph">Se sei un cliente NetApp con un account NSS, devi semplicemente registrarti per ricevere supporto tramite la Console.</block>
+  <block id="76bc427c3d9c4b81dc353078b942f991" category="list-text">Selezionare *Amministrazione* &gt; *Credenziali*.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Selezionare *Credenziali utente*.</block>
+  <block id="e9451600769b4bf4b20ca941ba9e6d19" category="list-text">Selezionare *Aggiungi credenziali NSS* e seguire la richiesta di autenticazione del sito di supporto NetApp (NSS).</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Per confermare che il processo di registrazione è andato a buon fine, seleziona l'icona Aiuto e seleziona *Supporto*.</block>
+  <block id="1d4ea9fd10f6cfcd6f6fe1f861d354a4" category="paragraph">La pagina *Risorse* dovrebbe mostrare che il tuo account Console è registrato per il supporto.</block>
+  <block id="afe8240ca62f4b72006980ff64d371b8" category="paragraph">Tieni presente che gli altri utenti della Console non vedranno lo stesso stato di registrazione del supporto se non hanno associato un account NetApp Support Site al loro accesso. Tuttavia, ciò non significa che il tuo account non sia registrato per l'assistenza. Se un utente dell'organizzazione ha seguito questi passaggi, il tuo account è stato registrato.</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente esistente ma nessun account NSS</block>
+  <block id="42eaca1e1c2d9e1f04e932eeaa6d129d" category="paragraph">Se sei un cliente NetApp esistente con licenze e numeri di serie esistenti ma _nessun_ account NSS, devi creare un account NSS e associarlo al tuo accesso alla Console.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Modulo di registrazione utente del sito di supporto NetApp</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Crea un account del sito di supporto NetApp completando il<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Assicurati di selezionare il livello utente appropriato, che in genere è *Cliente NetApp /Utente finale*.</block>
+  <block id="bd33c4539c7d6985f6edafd4a4f2ba1d" category="list-text">Assicurati di copiare il numero di serie dell'account della console (960xxxx) utilizzato sopra per il campo del numero di serie. Ciò velocizzerà l'elaborazione dell'account.</block>
+  <block id="9b1f48f88cd439b7a50fe3e76eb8a853" category="list-text">Associa il tuo nuovo account NSS al tuo accesso alla Console completando i passaggi indicati di seguito<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Novità assoluta per NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Se sei un nuovo utente NetApp e non hai un account NSS, segui i passaggi indicati di seguito.</block>
+  <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">Nell'angolo in alto a destra della Console, seleziona l'icona Aiuto e seleziona *Supporto*.</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Individua il numero di serie del tuo ID account nella pagina di registrazione del supporto.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Uno screenshot del menu Aiuto in cui Supporto è la prima opzione elencata</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sito di registrazione del supporto NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Vai a<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> e seleziona *Non sono un cliente NetApp registrato*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Compila i campi obbligatori (quelli contrassegnati da asterischi rossi).</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">Nel campo *Linea di prodotti*, seleziona *Cloud Manager* e poi seleziona il tuo fornitore di fatturazione applicabile.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Copia il numero di serie del tuo account dal passaggio 2 sopra, completa il controllo di sicurezza e conferma di aver letto l'Informativa globale sulla privacy dei dati di NetApp.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Per finalizzare questa transazione sicura, verrà inviata immediatamente un'e-mail alla casella di posta indicata. Se l'e-mail di convalida non arriva entro pochi minuti, assicurati di controllare la cartella spam.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Conferma l'azione dall'interno dell'e-mail.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">La conferma invia la richiesta a NetApp e ti consiglia di creare un account sul sito di supporto NetApp .</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">Assicurati di copiare il numero di serie dell'account (960xxxx) utilizzato sopra per il campo del numero di serie. Ciò velocizzerà l'elaborazione.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp dovrebbe contattarti durante questo processo. Si tratta di un esercizio di onboarding una tantum per i nuovi utenti.</block>
+  <block id="629757336278be576456cf315303b178" category="paragraph">Una volta ottenuto l'account del sito di supporto NetApp , associalo al tuo accesso alla console completando i passaggi indicati di seguito<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">Associare le credenziali NSS per il supporto Cloud Volumes ONTAP</block>
+  <block id="f22d1a855e255746a6b925a3b22f7838" category="paragraph">L'associazione delle credenziali del sito di supporto NetApp al tuo account della console è necessaria per abilitare i seguenti flussi di lavoro chiave per Cloud Volumes ONTAP:</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">Registrazione dei sistemi Cloud Volumes ONTAP a consumo per il supporto</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">Per attivare il supporto per il tuo sistema e accedere alle risorse di supporto tecnico NetApp è necessario fornire il tuo account NSS.</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">Distribuzione di Cloud Volumes ONTAP quando si utilizza la propria licenza (BYOL)</block>
+  <block id="f3cd224f9506684fa3b5e2b89b2a566c" category="paragraph">È necessario fornire il proprio account NSS affinché la Console possa caricare la chiave di licenza e abilitare l'abbonamento per il periodo acquistato. Ciò include aggiornamenti automatici per i rinnovi dei termini.</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aggiornamento del software Cloud Volumes ONTAP all'ultima versione</block>
+  <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">L'associazione delle credenziali NSS al tuo account NetApp Console è diversa dall'associazione dell'account NSS all'accesso utente della Console.</block>
+  <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">Queste credenziali NSS sono associate al tuo ID account Console specifico. Gli utenti che appartengono all'organizzazione Console possono accedere a queste credenziali da *Supporto &gt; Gestione NSS*.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Se disponi di un account a livello cliente, puoi aggiungere uno o più account NSS.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Se disponi di un account partner o rivenditore, puoi aggiungere uno o più account NSS, ma non possono essere aggiunti insieme agli account a livello di cliente.</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Selezionare *Gestione NSS &gt; Aggiungi account NSS*.</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">Quando richiesto, seleziona *Continua* per essere reindirizzato alla pagina di accesso di Microsoft.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utilizza Microsoft Entra ID come provider di identità per i servizi di autenticazione specifici per il supporto e le licenze.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Nella pagina di accesso, inserisci l'indirizzo email e la password registrati sul sito di supporto NetApp per eseguire il processo di autenticazione.</block>
+  <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">Queste azioni consentono alla Console di utilizzare il tuo account NSS per attività quali download di licenze, verifica di aggiornamenti software e future registrazioni di supporto.</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">L'account NSS deve essere un account a livello di cliente (non un account ospite o temporaneo). È possibile avere più account NSS a livello di cliente.</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">Può esserci un solo account NSS se tale account è un account a livello di partner. Se provi ad aggiungere account NSS a livello di cliente ed esiste già un account a livello di partner, riceverai il seguente messaggio di errore:</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">"Il tipo di cliente NSS non è consentito per questo account poiché sono già presenti utenti NSS di tipo diverso."</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo stesso vale se si dispone già di account NSS a livello di cliente e si tenta di aggiungere un account a livello di partner.</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Dopo aver effettuato l'accesso, NetApp memorizzerà il nome utente NSS.</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Un'icona di tre punti orizzontali</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Si tratta di un ID generato dal sistema che corrisponde al tuo indirizzo email. Nella pagina *Gestione NSS*, puoi visualizzare la tua email da<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Se hai bisogno di aggiornare i token delle tue credenziali di accesso, c'è anche un'opzione *Aggiorna credenziali* in<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Utilizzando questa opzione ti verrà richiesto di effettuare nuovamente l'accesso. Si noti che il token per questi account scade dopo 90 giorni. Verrà pubblicata una notifica per avvisarti di ciò.</block>
+  <block id="0bf8a233feaff9e97e741d5e88905db3" category="summary">Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare i dettagli sulla distribuzione della capacità e sugli avvisi, sui nodi e sui tenant associati.</block>
+  <block id="c20219c45cfba3fdfc2396d8aa96c143" category="doc">Visualizza i tuoi sistemi StorageGRID</block>
+  <block id="534a11c8fab2f45d8180a8b8c48cb1f0" category="list-text">Nella pagina *Sistemi*, seleziona il sistema StorageGRID che desideri visualizzare.</block>
+  <block id="f7129a1dc91c16787f11db8552772f5b" category="list-text">Seleziona una delle opzioni di menu disponibili per visualizzare maggiori dettagli sul tuo sistema StorageGRID :</block>
+  <block id="8cee006c52b25ffa341e9665d1f36032" category="list-text">*Panoramica*: una vista dettagliata della distribuzione della capacità del sistema (capacità utilizzata e libera), del numero di avvisi di sistema, nodi e tenant e altro ancora.</block>
+  <block id="7a78715e6a36fa2dcf6896248ccc058c" category="list-text">*Avvisi*: un riepilogo degli avvisi di sistema, che include avvisi attivi, avvisi risolti e avvisi silenziati.</block>
+  <block id="88a1a574aabf262882af454484c4f44f" category="list-text">*Nodi*: dettagli sul nodo di amministrazione, sul nodo gateway API e sui nodi di archiviazione.  Sono incluse le percentuali relative ai dati degli oggetti utilizzati, ai metadati degli oggetti utilizzati e all'utilizzo della CPU.</block>
+  <block id="91106c0a9a8679958f2d935850e42f7e" category="list-text">*Inquilini*: dettagli chiave sugli inquilini, tra cui spazio logico utilizzato, utilizzo della quota, quota e conteggio degli oggetti.</block>
+  <block id="e8d1456416daa95bfb687099cc3fbb58" category="summary">Scopri le novità sulla gestione dei sistemi StorageGRID nella console NetApp .</block>
+  <block id="a39b0065ec636bbdd671213be9d343f4" category="doc">Novità nella gestione StorageGRID</block>
+  <block id="59adf231110f5ab5dfdc34e98dacaf75" category="paragraph">Scopri le novità sulla gestione dei sistemi StorageGRID nella console NetApp .</block>
+  <block id="91d6aafc857e46203357e992ab4434f8" category="section-title">6 ottobre 2025</block>
+  <block id="e48502083eb8949c8f65b2ccddd5adec" category="section-title">12 maggio 2025</block>
+  <block id="43371a1519dc6641cd8852962e536c3e" category="section-title">7 agosto 2024</block>
+  <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 settembre 2022</block>
+  <block id="2a5debfc305ca51b1d9a57049c60e8cb" category="sidebar">Gestisci i tuoi sistemi StorageGRID dalla console NetApp utilizzando Grid Manager e utilizza i servizi dati NetApp per backup, livelli di dati e altro ancora.</block>
+  <block id="7b63e3ab012c50052cf80c91528ad009" category="sidebar">Gestione StorageGRID tramite NetApp Console</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Iniziare</block>
+  <block id="f8fe3d533b3c8ec77c886cdbfcbd8c60" category="sidebar">Scopri i tuoi sistemi StorageGRID</block>
+  <block id="a6ba2d89122672398b70094e4effce77" category="sidebar">Gestire i sistemi StorageGRID</block>
+  <block id="5a48514fa915876d588438500b09c18f" category="sidebar">Rimuovi StorageGRID</block>
+  <block id="ab066b3292d8ab61ef3b5c77169cdd19" category="sidebar">Ulteriori informazioni</block>
+  <block id="0bbcb573e270ffdb861d546d2d507352" category="sidebar">Documentazione StorageGRID per la gestione al di fuori della console NetApp</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blog e comunità</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">Console NetApp</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">Servizi dati NetApp</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Comunità NetApp</block>
+  <block id="67d5dc044866a0ff55b817d754d94a3e" category="sidebar">Documentazione di StorageGRID</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Cosa c'è di nuovo</block>
+  <block id="95dc0391ce7b396d7dd5622284e8fc3e" category="sidebar">Problemi noti</block>
+  <block id="d85b01f001ee16ebd8eb1917c739d824" category="sidebar">Scopri i sistemi StorageGRID</block>
+  <block id="fb6e1263028aaf83a98c38f91ee467e9" category="sidebar">Visualizza e aggiorna i certificati StorageGRID</block>
+  <block id="21bd2ca4d81529bdc81f70cd7c8cda30" category="sidebar">Gestire StorageGRID utilizzando la vista avanzata</block>
+  <block id="ae52ff2fa45ec695a0eb4dddc56142e2" category="sidebar">Rimuovere un sistema</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conoscenza e supporto</block>
+</blocks>

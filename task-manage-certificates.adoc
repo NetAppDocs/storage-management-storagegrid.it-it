@@ -1,0 +1,54 @@
+---
+sidebar: sidebar 
+permalink: task-manage-certificates.html 
+keywords: storagegrid, certificate, manage, manage interface certificate, refresh certificate, update certificate 
+summary: Poiché i certificati possono scadere, occasionalmente potrebbe essere necessario visualizzarne lo stato o aggiornarne uno. 
+---
+= Visualizza e aggiorna i certificati StorageGRID nella console NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+È necessario un certificato di interfaccia di gestione sul sistema StorageGRID prima di poter rilevare il sistema dalla console NetApp .  Il certificato fornisce una connessione sicura tra la Console e StorageGRID.  Poiché i certificati possono scadere, occasionalmente potrebbe essere necessario visualizzarne lo stato o aggiornarne uno.
+
+.Ruolo richiesto della console NetApp :
+Amministratore dell'archiviazione.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso alla console NetApp ."^]
+
+
+
+== Visualizza lo stato di un certificato dell'interfaccia di gestione
+
+Visualizzare lo stato del certificato dell'interfaccia di gestione per un sistema StorageGRID per verificare che il certificato sia ancora valido.
+
+.Passi
+. Dal menu di navigazione, seleziona *Archiviazione > Gestione*.
+. Nella pagina *Sistemi*, selezionare il sistema StorageGRID .
+. Dalla vista standard, controlla lo stato del certificato approvato dall'utente nella parte inferiore del riquadro _Informazioni_ sul lato destro della pagina.
++
+
+NOTE: Lo stato del certificato viene aggiornato ogni 24 ore.
+
+
+
+
+
+== Aggiorna il certificato dell'interfaccia di gestione
+
+Se lo stato del certificato dell'interfaccia di gestione non è valido o si riceve una notifica che il certificato è scaduto, sarà necessario aggiornarlo affinché la console NetApp possa connettersi a StorageGRID.
+
+.Passi
+. Vai al tuo Grid Manager locale in StorageGRID e segui le istruzioni per https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["Installazione di un certificato di interfaccia di gestione su StorageGRID"] .
+. Dal menu di navigazione della console NetApp , selezionare *Storage > Gestione*.
+. Nella pagina *Sistemi*, selezionare il sistema StorageGRID .
+. Selezionare l'icona Altre opzioni (cerchio con tre punti verticali).
++
+image:screenshot-update-certificate.png["Uno screenshot del menu di aggiornamento."]
+
+. Selezionare *Aggiorna certificato*.
+. Nella pagina _Approva certificato_, seleziona *Approva certificato* per utilizzare il certificato aggiornato.
+

@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: reference-known-issues.html 
+keywords: issues, known issues, bugs, errors, storagegrid, storage grid, storagegrid known issues, netapp console known issues 
+summary: I problemi noti identificano i problemi che potrebbero impedirti di utilizzare correttamente questa versione del prodotto. 
+---
+= Problemi noti per la gestione StorageGRID nella console NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+I problemi noti identificano i problemi che potrebbero impedirti di utilizzare correttamente questa versione del prodotto.
+
+
+
+== I nomi visualizzati aggiornati non vengono visualizzati nella console NetApp
+
+Se si utilizza la procedura di ridenominazione per definire un nuovo nome visualizzato per un sito o una griglia, il nuovo nome visualizzato non viene riflesso nella console NetApp .  Nella console NetApp , il sistema continua a mostrare il nome del sistema e non il nuovo nome visualizzato.
+
+
+
+== Errore durante il filtraggio degli avvisi
+
+Quando si utilizza la visualizzazione avanzata, il filtraggio del contenuto della pagina Avvisi genera un errore.
+
+
+
+== Errore durante la modifica della connessione della federazione di griglia
+
+Quando si utilizza la visualizzazione avanzata, potrebbe verificarsi un errore di timeout del gateway durante la modifica di una connessione di federazione della griglia.

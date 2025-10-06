@@ -1,0 +1,124 @@
+---
+sidebar: sidebar 
+permalink: task-administer-storagegrid.html 
+keywords: grid manager, advanced view, standard view, use grid manager, gridmanager 
+summary: 'È possibile amministrare un sistema StorageGRID dalla console NetApp utilizzando la visualizzazione avanzata.  Questa visualizzazione consente di utilizzare Grid Manager dall"interno della console NetApp .' 
+---
+= Gestire StorageGRID utilizzando Grid Manager nella console NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile amministrare un sistema StorageGRID dalla Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dalla Console.
+
+.Ruolo richiesto della console NetApp :
+Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso."^]
+
+
+
+== Configurazioni supportate
+
+Grid Manager è disponibile nella Console a partire da StorageGRID 11.8.
+
+
+
+== Limitazioni
+
+Le seguenti operazioni di Grid Manager non sono disponibili dalla Console.  Se devi eseguire queste operazioni, accedi direttamente a Grid Manager.
+
+[cols="1a,2a"]
+|===
+| Menu del gestore della griglia | Operazioni non disponibili dalla Console 
+
+
+ a| 
+Utente
+ a| 
+* Collegamento per uscire
+* Link alla documentazione API
+* Cambiare la password
+
+
+
+
+ a| 
+Nodi
+ a| 
+* Non è possibile accedere a SANtricity System Manager dalla scheda Nodi > SANtricity System Manager.
+* Quando visualizzi gli avvisi, potresti non essere in grado di selezionare tutti i collegamenti nelle azioni consigliate.  Ad esempio, i link che rimandano a pagine di Grid Manager non supportate non funzioneranno.
+
+
+
+
+ a| 
+inquilini
+ a| 
+Non è possibile accedere a un account tenant dalla procedura guidata Crea un tenant o dalla pagina Tenant.
+
+Attualmente la Console non supporta Tenant Manager.  Sebbene sia possibile creare nuovi account tenant dalla Console, gli utenti tenant non possono accedere ai propri account dalla Console.
+
+
+
+ a| 
+ILM
+ a| 
+Link ai gradi di stoccaggio
+
+
+
+ a| 
+Configurazione
+ a| 
+* Password di griglia
+* Classificazione del traffico > Metriche
+* Impostazioni di sicurezza > Timeout di inattività del browser
+* Accesso unico
+* Agente SNMP > file MIB per l'interfaccia BMC
+
+
+
+
+ a| 
+Manutenzione
+ a| 
+* Pacchetto di recupero
+* Aggiornamento software
+
+
+
+
+ a| 
+Supporto
+ a| 
+* Topologia della griglia
+* Registri
+* Metriche, inclusi tutti i collegamenti alle metriche di Prometheus e alle dashboard di Grafana da altre posizioni nell'interfaccia utente.
+* Tutte le opzioni per gli allarmi legacy
+* Costo del collegamento
+* entità NMS
+
+
+|===
+
+
+== Passa alla vista avanzata
+
+Aprire un sistema StorageGRID e selezionare l'opzione di visualizzazione avanzata.
+
+.Passi
+. Dalla pagina *Sistemi*, aprire il sistema StorageGRID .
+. In alto a destra, seleziona *Passa alla visualizzazione avanzata*.
+. Utilizzare Grid Manager per gestire il sistema StorageGRID .
+. Se necessario, selezionare Passa alla visualizzazione standard per tornare alla visualizzazione standard tramite Console.
+
+
+
+
+== Ottieni assistenza con Grid Manager
+
+Se hai bisogno di aiuto nell'utilizzo di Grid Manager, fai riferimento a https://docs.netapp.com/us-en/storagegrid-118/admin/index.html["Documentazione StorageGRID"^] per istruzioni dettagliate.
