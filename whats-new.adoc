@@ -18,7 +18,7 @@ Scopri le novità sulla gestione dei sistemi StorageGRID nella NetApp Console.
 
 
 
-== 6 ottobre 2025
+== 06 ottobre 2025
 
 
 
@@ -34,13 +34,13 @@ Per i dettagli su cosa è cambiato, vedere illink:https://docs.netapp.com/us-en/
 
 
 
-=== Ruoli di accesso BlueXP necessari
+=== Ruoli di accesso NetApp Console necessari
 
-Ora è necessario uno dei seguenti ruoli di accesso per visualizzare, scoprire o gestire StorageGRID in BlueXP: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore archiviazione* o *Specialista integrità archiviazione*.link:https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso BlueXP ."^]
+Ora è necessario uno dei seguenti ruoli di accesso per visualizzare, scoprire o gestire StorageGRID nella NetApp Console: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore storage* o *Specialista integrità storage*.link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html#data-service-roles["Scopri di più sui ruoli di accesso NetApp Console ."^]
 
 
 
-== 7 agosto 2024
+== 07 agosto 2024
 
 
 

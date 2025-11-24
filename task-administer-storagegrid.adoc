@@ -17,7 +17,7 @@ summary: 'È possibile amministrare un sistema StorageGRID dalla NetApp Console 
 È possibile amministrare un sistema StorageGRID dalla Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dalla Console.
 
 .Ruolo richiesto NetApp Console :
-Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso."^]
+Amministratore dell'archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso"^].
 
 
 
@@ -75,7 +75,6 @@ Link ai gradi di stoccaggio
 Configurazione
  a| 
 * Password di griglia
-* Classificazione del traffico > Metriche
 * Impostazioni di sicurezza > Timeout di inattività del browser
 * Accesso unico
 * Agente SNMP > file MIB per l'interfaccia BMC
@@ -96,8 +95,8 @@ Manutenzione
 Supporto
  a| 
 * Topologia della griglia
-* Registri
-* Metriche, inclusi tutti i collegamenti alle metriche di Prometheus e alle dashboard di Grafana da altre posizioni nell'interfaccia utente.
+* Raccolta dei registri
+* Tutti i link alle metriche di Prometheus e alle dashboard di Grafana
 * Tutte le opzioni per gli allarmi legacy
 * Costo del collegamento
 * entità NMS
@@ -106,15 +105,15 @@ Supporto
 |===
 
 
-== Passa alla vista avanzata
+== Passa a Grid Manager
 
-Aprire un sistema StorageGRID e selezionare l'opzione di visualizzazione avanzata.
+Aprire un sistema StorageGRID e selezionare l'opzione Grid Manager.
 
 .Passi
 . Dalla pagina *Sistemi*, aprire il sistema StorageGRID .
-. In alto a destra, seleziona *Passa alla visualizzazione avanzata*.
+. In alto a destra, seleziona *Passa a Grid Manager*.
 . Utilizzare Grid Manager per gestire il sistema StorageGRID .
-. Se necessario, selezionare Passa alla visualizzazione standard per tornare alla visualizzazione standard tramite Console.
+. Se necessario, selezionare *Torna indietro* per tornare alla visualizzazione standard tramite Console.
 
 
 

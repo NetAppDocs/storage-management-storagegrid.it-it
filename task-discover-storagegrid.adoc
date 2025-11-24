@@ -17,12 +17,12 @@ summary: Scopri i sistemi StorageGRID nel tuo ambiente on-premise e gestiscili d
 Gestisci i tuoi sistemi StorageGrid direttamente dalla NetApp Console utilizzando Grid Manager.
 
 .Ruolo richiesto NetApp Console :
-Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
+Amministratore dell'archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console"^].
 
 .Prima di iniziare
 Ti occorre quanto segue:
 
-* Un agente NetApp Console che utilizza la versione 3.9.43 o successiva.  Per installare un agente console è necessario disporre del ruolo di amministratore dell'organizzazione.  Se non sai se la tua organizzazione dispone di un Console Agent o se hai bisogno di crearne uno, contatta l'amministratore NetApp Console . https://docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Contatta l'amministratore della tua organizzazione."^]
+* Un agente NetApp Console che utilizza la versione 3.9.43 o successiva. Per installare un agente console è necessario disporre del ruolo di amministratore dell'organizzazione. Se non sai se la tua organizzazione dispone di un Console Agent o se hai bisogno di crearne uno, contatta l'amministratore NetApp Console . https://docs.netapp.com/us-en/console-setup-admin/task-user-settings.html#contact-your-organization-administrator["Contatta l'amministratore della tua organizzazione"^] .
 * Il nome di dominio o l'indirizzo IP del nodo di amministrazione.
 * Credenziali di amministratore per il nodo di amministrazione.
 * Un certificato di interfaccia di gestione installato sul tuo sistema StorageGRID .

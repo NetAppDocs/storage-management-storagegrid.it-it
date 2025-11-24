@@ -17,7 +17,7 @@ summary: Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare
 Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare i dettagli sulla distribuzione della capacità e sugli avvisi, sui nodi e sui tenant associati.
 
 .Ruolo richiesto NetApp Console :
-Amministratore dell'archiviazione o specialista dell'integrità del sistema.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
+Amministratore dell'archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console"^].
 
 .Passi
 . Dal menu di navigazione, seleziona *Archiviazione > Gestione*.
