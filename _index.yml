@@ -23,7 +23,7 @@ indexpage:
   - title: Ulteriori informazioni
     links:
     - title: Documentazione StorageGRID per la gestione al di fuori della NetApp Console
-      url: https://docs.netapp.com/us-en/storagegrid-118/
+      url: https://docs.netapp.com/us-en/storagegrid/
   - title: Blog e comunità
     links:
     - title: NetApp Console
