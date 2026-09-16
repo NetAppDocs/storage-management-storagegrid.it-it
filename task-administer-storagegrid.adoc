@@ -17,16 +17,18 @@ summary: 'È possibile amministrare un sistema StorageGRID dalla NetApp Console 
 È possibile amministrare un sistema StorageGRID dalla Console utilizzando la visualizzazione avanzata.  Questa vista consente di utilizzare Grid Manager dalla Console.
 
 .Ruolo richiesto NetApp Console :
-Amministratore dell'archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso"^].
+Super amministratore, amministratore dello storage o specialista dello stato di salute del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri i ruoli di accesso."^]
 
 
 
+[[supported-configurations]]
 == Configurazioni supportate
 
 Grid Manager è disponibile nella Console a partire da StorageGRID 11.8.
 
 
 
+[[limitations]]
 == Limitazioni
 
 Le seguenti operazioni di Grid Manager non sono disponibili dalla Console.  Se devi eseguire queste operazioni, accedi direttamente a Grid Manager.
@@ -105,6 +107,7 @@ Supporto
 |===
 
 
+[[switch-to-grid-manager]]
 == Passa a Grid Manager
 
 Aprire un sistema StorageGRID e selezionare l'opzione Grid Manager.
@@ -118,6 +121,7 @@ Aprire un sistema StorageGRID e selezionare l'opzione Grid Manager.
 
 
 
+[[get-help-with-grid-manager]]
 == Ottieni assistenza con Grid Manager
 
 Se hai bisogno di aiuto nell'utilizzo di Grid Manager, fai riferimento a https://docs.netapp.com/us-en/storagegrid/admin/index.html["Documentazione StorageGRID"^] per istruzioni dettagliate.

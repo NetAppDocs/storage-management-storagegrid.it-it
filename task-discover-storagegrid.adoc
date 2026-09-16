@@ -17,7 +17,7 @@ summary: Scopri i sistemi StorageGRID nel tuo ambiente on-premise e gestiscili d
 Gestisci i tuoi sistemi StorageGrid direttamente dalla NetApp Console utilizzando Grid Manager.
 
 .Ruolo richiesto NetApp Console :
-Amministratore dell'archiviazione o specialista dell'integrità del sistema. link:https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console"^].
+Super amministratore, amministratore dello storage o specialista dello stato di salute del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Scopri di più sui ruoli di accesso NetApp Console ."^]
 
 .Prima di iniziare
 Ti occorre quanto segue:

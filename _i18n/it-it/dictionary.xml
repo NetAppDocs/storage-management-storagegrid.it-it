@@ -250,7 +250,6 @@
   <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">Nell'angolo in alto a destra della Console, seleziona l'icona Aiuto e seleziona *Supporto*.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Individua il numero di serie del tuo ID account nella pagina di registrazione del supporto.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Uno screenshot del menu Aiuto in cui Supporto è la prima opzione elencata</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sito di registrazione del supporto NetApp</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Vai a<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> e seleziona *Non sono un cliente NetApp registrato*.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Compila i campi obbligatori (quelli contrassegnati da asterischi rossi).</block>
@@ -273,7 +272,6 @@
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">Queste credenziali NSS sono associate al tuo ID account Console specifico. Gli utenti che appartengono all'organizzazione Console possono accedere a queste credenziali da *Supporto &gt; Gestione NSS*.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Se disponi di un account a livello cliente, puoi aggiungere uno o più account NSS.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Se disponi di un account partner o rivenditore, puoi aggiungere uno o più account NSS, ma non possono essere aggiunti insieme agli account a livello di cliente.</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Selezionare *Gestione NSS &gt; Aggiungi account NSS*.</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">Quando richiesto, seleziona *Continua* per essere reindirizzato alla pagina di accesso di Microsoft.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utilizza Microsoft Entra ID come provider di identità per i servizi di autenticazione specifici per il supporto e le licenze.</block>
@@ -285,8 +283,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo stesso vale se si dispone di account NSS preesistenti a livello di cliente e si tenta di aggiungere un account a livello di partner.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Dopo aver effettuato l'accesso, NetApp memorizzerà il nome utente NSS.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Un'icona di tre punti orizzontali</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Si tratta di un ID generato dal sistema che corrisponde al tuo indirizzo email. Nella pagina *Gestione NSS*, puoi visualizzare la tua email da<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Se hai bisogno di aggiornare i token delle credenziali di accesso, è disponibile anche l'opzione *Aggiorna credenziali* in<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Utilizzando questa opzione ti verrà richiesto di effettuare nuovamente l'accesso. Si noti che il token per questi account scade dopo 90 giorni. Verrà pubblicata una notifica per avvisarti di ciò.</block>
   <block id="0bf8a233feaff9e97e741d5e88905db3" category="summary">Dopo aver individuato i sistemi StorageGRID , è possibile visualizzare i dettagli sulla distribuzione della capacità e sugli avvisi, sui nodi e sui tenant associati.</block>
   <block id="c20219c45cfba3fdfc2396d8aa96c143" category="doc">Visualizza i tuoi sistemi StorageGRID</block>
@@ -324,22 +320,17 @@
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conoscenza e supporto</block>
   <block id="597e4208265714f5fbe715a2ecb5cde8" category="doc">Ruoli di accesso NetApp Console necessari</block>
   <block id="c781879460e95147a58b10c5822cdee1" category="paragraph">Ora è necessario uno dei seguenti ruoli di accesso per visualizzare, scoprire o gestire StorageGRID nella NetApp Console: *Amministratore organizzazione*, *Amministratore cartella o progetto*, *Amministratore storage* o *Specialista integrità storage*.<block ref="fc1e28d913c6a538c5e9638adc8cfee2" category="inline-link-macro-rx"></block></block>
-  <block id="0e6e1e539b578c2b0388d566d8ae4e15" category="inline-link-macro">Scopri di più sui ruoli di accesso</block>
-  <block id="646004f6286a1c6652c0617f8c295eb1" category="paragraph">Amministratore dell'archiviazione o specialista dell'integrità del sistema. <block ref="d7b3a182e3f4d537df96f0ab119b3719" category="inline-link-macro-rx"></block>.</block>
   <block id="d4a8473f83e1246e0b3ab08e2034db7c" category="list-text">Raccolta dei registri</block>
   <block id="eb314977d68b7a27dec7c42f71cc734e" category="list-text">Tutti i link alle metriche di Prometheus e alle dashboard di Grafana</block>
   <block id="691d3813e42d3c7a96ce16136d8f0585" category="section-title">Passa a Grid Manager</block>
   <block id="c7c42727522342992d0d5a7ac5aac3e9" category="paragraph">Aprire un sistema StorageGRID e selezionare l'opzione Grid Manager.</block>
   <block id="1da95130af2b7aa7e5215a16b692f80d" category="list-text">In alto a destra, seleziona *Passa a Grid Manager*.</block>
   <block id="7c1357c2af5a3afec56f643266c2d663" category="list-text">Se necessario, selezionare *Torna indietro* per tornare alla visualizzazione standard tramite Console.</block>
-  <block id="5ed613d5969e54b01e0691f040afb027" category="inline-link-macro">Scopri di più sui ruoli di accesso NetApp Console</block>
-  <block id="b65ed78cf783dfcf7a11227a16dee299" category="paragraph">Amministratore dell'archiviazione o specialista dell'integrità del sistema. <block ref="d47ae35a0d63c1eadf9e54d8e5017d63" category="inline-link-macro-rx"></block>.</block>
   <block id="b8bf9c5f4f01e9e78e739fa6ff26281c" category="inline-link">Contatta l'amministratore della tua organizzazione</block>
   <block id="4dd7a3812d2662d3ef305d5a6c0d94af" category="list-text">Un agente NetApp Console che utilizza la versione 3.9.43 o successiva. Per installare un agente console è necessario disporre del ruolo di amministratore dell'organizzazione. Se non sai se la tua organizzazione dispone di un Console Agent o se hai bisogno di crearne uno, contatta l'amministratore NetApp Console .<block ref="bf3f14d32c77964cfe44fa0cda47d96b" category="inline-link-rx"></block> .</block>
   <block id="d018f459a83db6ae4ef422998ab9f915" category="paragraph"><block ref="d018f459a83db6ae4ef422998ab9f915" category="inline-link-rx"></block></block>
   <block id="7ca0b225eb61965fb6db2810569aaf51" category="paragraph"><block ref="7ca0b225eb61965fb6db2810569aaf51" category="inline-link-rx"></block></block>
   <block id="1bac2f8f82de86bfa404d8d3deb90386" category="paragraph"><block ref="1bac2f8f82de86bfa404d8d3deb90386" category="inline-link-rx"></block></block>
-  <block id="3b4f10f05a412a74c29d6cac7ecfd74c" category="paragraph">Amministratore dell'archiviazione. <block ref="d47ae35a0d63c1eadf9e54d8e5017d63" category="inline-link-macro-rx"></block>.</block>
   <block id="18fea311c452091646a60f89f3386c23" category="list-text">Vai al tuo Grid Manager locale in StorageGRID e segui le istruzioni per<block ref="5ba9fd123e556ebaf5f5a56be0d2c8b7" category="inline-link-rx"></block> .</block>
   <block id="3f4224139b9cbf910de436e966798772" category="list-text">Selezionare l'icona Altre opzioni (cerchio con tre punti orizzontali).</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">06 ottobre 2025</block>
@@ -347,4 +338,16 @@
   <block id="2091f731164c7be0cc441cb14dd7e0fb" category="paragraph">Se hai bisogno di aiuto nell'utilizzo di Grid Manager, fai riferimento a<block ref="a5ef9ecfc4cb4075bbcd8c75bedb3b47" category="inline-link-rx"></block> per istruzioni dettagliate.</block>
   <block id="02e289e09609553bd74d5dda81ecb5e1" category="paragraph"><block ref="02e289e09609553bd74d5dda81ecb5e1" category="inline-link-rx"></block></block>
   <block id="bc8c7fb093008fb3e0be35efca86b665" category="list-text">Nel tuo sistema StorageGRID locale, segui le istruzioni:<block ref="ccef0a266f4ff51bd9b89e82df562999" category="inline-link-rx"></block>.</block>
+  <block id="432e57b4ac6417575095631e36c4ad84" category="doc">Supporto per StorageGRID 12.1</block>
+  <block id="b6d09872582b8745a9b3f149504d2383" category="paragraph">Ora puoi gestire il tuo sistema StorageGRID 12.1 dalla NetApp Console.</block>
+  <block id="fe21ed67c3641d5e2e10ba99109b6611" category="inline-link">Scopri come amministrare StorageGRID utilizzando la visualizzazione avanzata in NetApp Console</block>
+  <block id="4df6d59ec4dc722c05f0d3acec14b56c" category="paragraph"><block ref="e0100fd3222c3d2603aecd8b497b4e0b" category="inline-link-rx"></block>.</block>
+  <block id="c86bd67be80794fcaa3f1d91aa8b2899" category="inline-link-macro">Scopri i ruoli di accesso.</block>
+  <block id="78e3f4b5d8fca01381acada3db128ef2" category="paragraph">Super amministratore, amministratore dello storage o specialista dello stato di salute del sistema. <block ref="5a4d408bd57f7cf7efbd6cf878c737a7" category="inline-link-macro-rx"></block></block>
+  <block id="42d5bb3c34164a8507ef2843a56569b5" category="paragraph">Super amministratore, amministratore dello storage o specialista dello stato di salute del sistema. <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="d6a0af91e64dce2035f40472c9ccb100" category="paragraph">Super amministratore o amministratore dello storage. <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">Si tratta di un ID generato dal sistema che corrisponde al tuo indirizzo email. Nella pagina *Gestione NSS*, puoi visualizzare il tuo indirizzo email dal <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Se dovessi mai aver bisogno di aggiornare i token delle tue credenziali di accesso, c'è anche un'opzione *Aggiorna credenziali* nel menu <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block>.</block>
 </blocks>
